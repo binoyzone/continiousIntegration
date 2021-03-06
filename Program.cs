@@ -11,6 +11,7 @@ namespace continiousIntegration
         static void Main(string[] args)
         {
             Console.WriteLine("Welcome to Continious Integration");
+            //New line adde
         }
     }
 }
